@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "inewsImageSrc": "https://source.unsplash.com/user/xteemu/800x600",
+    "newsTitle": "Lorem, ipsum dolor.",
+    "newsText": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+    "fibonaciNumber": 1
+  },
+  {
+    "id": "2",
+    "inewsImageSrc": "https://source.unsplash.com/user/austindistel/800x600",
+    "newsTitle": "Some text",
+    "newsText": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+    "fibonaciNumber": 1
+  },
+  {
+    "id": "3",
+    "inewsImageSrc": "https://source.unsplash.com/user/amadorloureiroblanco/800x600",
+    "newsTitle": "Lorem ipsum dolor sit amet.",
+    "newsText": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+    "fibonaciNumber": 2
+  },
+  {
+    "id": "4",
+    "inewsImageSrc": "https://source.unsplash.com/user/xteemu/800x600",
+    "newsTitle": "Lorem ipsum, dolor sit amet",
+    "newsText": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+    "fibonaciNumber": 3
+  },
+  {
+    "id": "5",
+    "inewsImageSrc": "https://source.unsplash.com/user/austindistel/800x600",
+    "newsTitle": "Other text",
+    "newsText": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+    "fibonaciNumber": 5
+  },
+  {
+    "id": "6",
+    "inewsImageSrc": "https://source.unsplash.com/user/amadorloureiroblanco/800x600",
+    "newsTitle": "Some",
+    "newsText": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+    "fibonaciNumber": 8
+  },
+  {
+    "id": "7",
+    "inewsImageSrc": "https://source.unsplash.com/user/xteemu/800x600",
+    "newsTitle": "Lorem ipsum",
+    "newsText": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+    "fibonaciNumber": 13
+  },
+  {
+    "id": "8",
+    "inewsImageSrc": "https://source.unsplash.com/user/austindistel/800x600",
+    "newsTitle": "Ipsum, dolor sit ",
+    "newsText": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+    "fibonaciNumber": 21
+  },
+  {
+    "id": "9",
+    "inewsImageSrc": "https://source.unsplash.com/user/amadorloureiroblanco/800x600",
+    "newsTitle": "Lorem ipsum, dolor sit ",
+    "newsText": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+    "fibonaciNumber": 13
+  }
+]

@@ -1,0 +1,152 @@
+.header-search {
+  margin-left: 100px;
+  padding-top: 10px;
+
+  .input-group {
+    overflow: hidden;
+    width: 245px;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    cursor: pointer;
+
+    .input-group-prepend-icon{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 35px;
+    }
+    #search-input{
+      margin-left: -1px;
+      background-color: transparent !important;
+      color: rgb(12, 34, 54);
+      font-size: 14px;
+      font-weight: 300;
+      padding: 8.4px 11.5px ;
+      margin-bottom: 0 !important;
+    }
+  }
+}
+
+.header-right{
+  margin-right: 100px;
+
+  .admin-img{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    position: relative;
+    top: -5px;
+  }
+
+  .admin-title{
+    color: #0c2236;
+    cursor: pointer;
+    font-family: Poppins, sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    margin: 7px;
+    text-decoration: none;
+  }
+
+  .admin-circle{
+    background-color: #ff5574;
+    border-radius: 50%;
+    color: #fff; 
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    padding: 1px 4px;
+    text-align: center;
+  }
+
+  .arrow-down{
+    margin-left: 16px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #0c2236;
+  }
+
+  .dropdown{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    & > .nav-link{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .setting-icon{
+      svg:hover{
+        fill: #0c2236;
+      }
+    }
+
+    #dropdown-setting-icon {
+      background-color: transparent !important;
+      border-color: transparent !important;
+      border: none !important;
+      cursor: pointer;
+
+      &::after{
+        display: none;
+      }
+
+      &:focus, &:active {
+        outline: none;
+      }
+    }
+
+    .dropdown-menu{
+      width: 160px;
+      // margin: 15px!important;
+      // padding: 7px 0;
+      border-radius: 4.2px !important;
+    }
+
+    .dropdown-item{
+      padding: 18px 22px;
+
+      &.active{
+        background-color: #598dc7;
+        color: #fff;
+      }
+
+      .dropdown-item-content{
+        display: flex;
+
+        svg{
+          margin-right: 8px;
+        }
+      }
+    }
+  }
+}
+
+.navigation-nav{
+  padding-top: 10px;
+
+  ul{
+    padding: 0;
+  }
+  .nav-item{
+    list-style: none;
+    padding: 0 15px;
+
+    a{
+      text-decoration: none;
+      color: #0c2236;
+      font-size: 14px;
+      line-height: 18px;
+
+      &:hover{
+        color: #598dc7;
+      }
+    }
+  }
+}
